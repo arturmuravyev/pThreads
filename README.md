@@ -14,7 +14,8 @@ Divide background processing in N parallel tasks (N is configurable). Tasks are 
 ## Installation
 1. Copy php_pthreads.dll to xampp\php\ext
 2. Copy pthreadVC2.dll to xampp\php
-3. Add extension to xampp\php\php.ini:
+3. Add pthreadVC2.dll to PATH
+4. Add extension to xampp\php\php.ini:
 <pre><code>extension = php_pthreads.dll
 </code></pre>
 
