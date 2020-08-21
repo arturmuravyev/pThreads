@@ -1,5 +1,5 @@
 # pThreads
-**Job test task:**
+## Job test task
 
 Divide background processing in N parallel tasks (N is configurable). Tasks are taken from JSON file and have simple functions - write in log DATETIME and parameters.
 
