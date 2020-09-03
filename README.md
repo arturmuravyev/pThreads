@@ -1,5 +1,5 @@
 # pThreads
-## Test task for Job Interview for Middle PHP Developer position in Russian Company
+## Test task for Job Interview for Middle PHP Developer position in Russian Company "ООО ПИНбонус" 
 
 Divide background processing in N parallel tasks (N is configurable). Tasks are taken from JSON file and have simple functions - write in log DATETIME and parameters.
 
